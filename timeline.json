@@ -1,0 +1,42 @@
+{
+    "1960-an": {
+        "1969": "ARPANET, pelopor Internet, dibuat oleh Departemen Pertahanan AS."
+    },
+    "1970-an": {
+        "1971": "Email pertama dikirim oleh Ray Tomlinson, membangun sarana komunikasi elektronik.",
+        "1972": "Demonstrasi publik pertama ARPANET terjadi, memperlihatkan potensinya untuk kolaborasi jarak jauh.",
+        "1974": "Pengembangan protokol TCP/IP dimulai, menetapkan dasar untuk Internet modern."
+    },
+    "1980-an": {
+        "1980": "Usenet pertama, sistem diskusi di seluruh dunia, didirikan.",
+        "1983": "Domain Name System (DNS) diperkenalkan, menyederhanakan proses pengaksesan website menggunakan nama domain.",
+        "1989": "Tim Berners-Lee menemukan World Wide Web, mengusulkan penggunaan hypertext untuk menghubungkan dokumen bersama."
+    },
+    "1990-an": {
+        "1990": "Web server dan web browser pertama, disebut WorldWideWeb, dirilis oleh Tim Berners-Lee.",
+        "1991": "Situs web pertama, info.cern.ch, ditayangkan, memberikan informasi tentang proyek World Wide Web.",
+        "1993": "Browser web Mosaic, browser pertama dengan antarmuka pengguna grafis, dirilis.",
+        "1994": "Netscape Navigator, salah satu web browser awal yang paling populer, diluncurkan.",
+        "1995": "Internet Explorer dirilis oleh Microsoft, memulai perang browser dengan Netscape.",
+        "1996": "Spesifikasi CSS (Cascading Style Sheets) pertama diterbitkan, memungkinkan kontrol yang lebih baik terhadap desain dan tata letak situs web.",
+        "1998": "Google didirikan, merevolusi pencarian web dengan teknologi mesin pencarinya."
+    },
+    "2000-an": {
+        "2000": "Gelembung dot-com pecah, menyebabkan penurunan di banyak perusahaan internet.",
+        "2001": "Wikipedia, ensiklopedia online gratis, diluncurkan, memperkenalkan konsep konten buatan pengguna.",
+        "2004": "Facebook diluncurkan, menandai dimulainya era media sosial.",
+        "2005": "YouTube didirikan, merevolusi berbagi dan konsumsi konten video online.",
+        "2007": "Pengenalan iPhone memulai era penjelajahan web seluler dan desain responsif seluler.",
+        "2009": "Munculnya framework pengembangan web seperti Node.js dan AngularJS meningkatkan pengembangan aplikasi web."
+    },
+    "2010-an": {
+        "2010": "Desain web responsif mendapatkan popularitas, memastikan situs web beradaptasi dengan berbagai perangkat dan ukuran layar. Instagram diluncurkan, mempopulerkan berbagi foto dan jejaring sosial berbasis aplikasi seluler.",
+        "2011": "Peluncuran Google Chromebook, yang sangat bergantung pada aplikasi web dan komputasi awan.",
+        "2012": "Munculnya aplikasi satu halaman (SPA) menggunakan kerangka kerja seperti React.js dan Vue.js.",
+        "2015": "Progressive Web Apps (PWA) diperkenalkan, memungkinkan aplikasi web menawarkan pengalaman yang lebih mirip aplikasi.",
+        "2019": "Munculnya WebAssembly (Wasm), memungkinkan bahasa pemrograman tingkat rendah berkinerja tinggi untuk berjalan di browser web."
+    },
+    "2020-an": {
+        "2020": "Kemajuan yang sedang berlangsung termasuk peningkatan penggunaan AI dan pembelajaran mesin dalam aplikasi web, pertumbuhan antarmuka berbasis suara, dan perluasan berkelanjutan dari e-commerce dan layanan online."
+    }
+}
