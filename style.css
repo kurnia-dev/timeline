@@ -92,3 +92,17 @@ body {
 .timeline-poin-wrapper:nth-child(even)::after {
   left: -9px;
 }
+
+.timeline-poin ul {
+  margin-left: 2em;
+  list-style-image: url(res/list-chevron-right.svg);
+}
+.timeline-poin ul li {
+  line-height: 1.5;
+  margin-bottom: 1.5em;
+  padding-left: 10px;
+}
+
+.timeline-poin ul li::marker {
+  margin-right: 10px;
+}
